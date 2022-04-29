@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Analogy-LogViewer&repo=.github&countColorcountColor)
 <!--
 
 **Here are some ideas to get you started:**
