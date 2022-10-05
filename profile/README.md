@@ -1,6 +1,13 @@
 ## Hi there 👋
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Analogy-LogViewer&repo=.github&countColorcountColor)
 
+Analogy Log viewer is a very versatile tool.
+It started as standard log viewer for specific log, expanded into multi frameworks log viewer which supports all common frameworks like Serilog, NLog, Log4Net, Windows event logs and more and also support custom needs like git commits query (with timeline support of each commit), Words search for specific words in dictionary, Companies’ specific formats (Philips, Kama Research, Intuitive). 
+
+It supports real time log streaming Using gRPC (and has Log Server) which enable cross platform logs streaming using other languages and there are examples (in c++, python, Java).
+Making the application itself agnostic to the data provider allows everyone to implement their own logic for parsing/streaming logs.
+At the UI level it  support many query operations and other tools like Json Viewer, Chart plotting
+
 
 ## Share links
 
